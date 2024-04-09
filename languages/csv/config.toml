@@ -1,0 +1,8 @@
+name = "CSV"
+grammar = "csv"
+path_suffixes = ["csv"]
+brackets = [
+    { start = "\"", end = "\"", close = true, newline = false, not_in = [
+        "string",
+    ] },
+]

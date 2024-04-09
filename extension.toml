@@ -1,0 +1,11 @@
+id = "csv"
+name = "CSV"
+description = "CSV language support."
+version = "0.0.1"
+schema_version = 1
+authors = ["Jason Lee <huacnlee@gmail.com>"]
+repository = "https://github.com/huacnlee/zed-csv"
+
+[grammars.csv]
+repository = "https://github.com/arnau/tree-sitter-csv"
+commit = "ae0728a5f00ad8f02357c20e61249af1a52e89b4"

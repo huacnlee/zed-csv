@@ -1,0 +1,4 @@
+name,city,state,zip,latitude,longitude,signed
+Mcdonalds,"Los Angeles",CA,90001,33.973951,-118.248405,true
+Dennys,"New York",NY,10001,40.750634,-73.997177,true
+"Burger King",Chicago,IL,60601,41.884151,-87.622848,false
