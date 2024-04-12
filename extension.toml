@@ -8,4 +8,4 @@ repository = "https://github.com/huacnlee/zed-csv"
 
 [grammars.csv]
 repository = "https://github.com/arnau/tree-sitter-csv"
-commit = "ae0728a5f00ad8f02357c20e61249af1a52e89b4"
+commit = "4b25b5d745f9462e54b781e3d7798b8e0a4db703"
