@@ -1,11 +1,15 @@
 id = "csv"
 name = "CSV"
-description = "CSV language support."
-version = "0.0.2"
+description = "CSV (.csv, .tsv) languages support with 🌈 rainbow colors highlight."
+version = "0.1.0"
 schema_version = 1
-authors = ["Jason Lee <huacnlee@gmail.com>"]
+authors = ["Jason Lee <huacnlee@gmail.com>", "Hans <weartistt@gmail.com>"]
 repository = "https://github.com/huacnlee/zed-csv"
 
 [grammars.csv]
-repository = "https://github.com/arnau/tree-sitter-csv"
-commit = "4b25b5d745f9462e54b781e3d7798b8e0a4db703"
+repository = "https://github.com/weartist/rainbow-csv-tree-sitter"
+commit = "65820cbb26f640c6ef438d7d43c53172ed304697"
+
+[grammars.tsv]
+repository = "https://github.com/weartist/rainbow-tsv-tree-sitter"
+commit = "fdbd83fc30690777822b7ab183f57664c11310e9"

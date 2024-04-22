@@ -1,0 +1,8 @@
+name = "TSV"
+grammar = "tsv"
+path_suffixes = ["tsv"]
+brackets = [
+    { start = "\"", end = "\"", close = true, newline = false, not_in = [
+        "string",
+    ] },
+]

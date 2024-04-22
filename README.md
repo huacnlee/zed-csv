@@ -1,8 +1,13 @@
-# CSV for Zed
+# 🌈 CSV for Zed
 
-CSV grammar for [Zed](https://zed.dev/).
+CSV grammar for [Zed](https://zed.dev/), with `.csv`, `.tsv` support for highlight with rainbow colors.
 
-<img width="789" alt="image" src="https://github.com/huacnlee/zed-csv/assets/5518/a9b49882-1556-4a61-8576-cdb92f6e1c13">
+![SCR-20240422-ox3](https://github.com/huacnlee/zed-csv/assets/5518/99673404-16e3-47ed-9ef9-2621ae2e9c0a)
+
+## Tree-sitter
+
+- https://github.com/weartist/rainbow-csv-tree-sitter
+- https://github.com/weartist/rainbow-tsv-tree-sitter
 
 ## License
 
